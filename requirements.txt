@@ -32,4 +32,3 @@ pdfjs-dist
 canvas
 
 #@supabase/supabase-js
-#@clerk/nextjs/server
